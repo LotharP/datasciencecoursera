@@ -1,2 +1,3 @@
 # datasciencecoursera
-erstes Repo von LotharP
+*erstes Repo von LotharP
+
